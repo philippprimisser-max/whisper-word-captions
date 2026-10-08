@@ -1,0 +1,61 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Word,DejaVu Sans,70,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,5,2,2,86,86,346,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.36,Word,,0,0,0,,{\c&H0000D4FF\fscx115\fscy115}NATION{\r} CONCEIVED IN
+Dialogue: 0,0:00:00.36,0:00:00.80,Word,,0,0,0,,NATION {\c&H0000D4FF\fscx115\fscy115}CONCEIVED{\r} IN
+Dialogue: 0,0:00:00.80,0:00:01.08,Word,,0,0,0,,NATION CONCEIVED {\c&H0000D4FF\fscx115\fscy115}IN{\r}
+Dialogue: 0,0:00:01.08,0:00:01.40,Word,,0,0,0,,{\c&H0000D4FF\fscx115\fscy115}LIBERTY{\r} AND DEDICATED
+Dialogue: 0,0:00:01.40,0:00:02.08,Word,,0,0,0,,LIBERTY {\c&H0000D4FF\fscx115\fscy115}AND{\r} DEDICATED
+Dialogue: 0,0:00:02.08,0:00:02.36,Word,,0,0,0,,LIBERTY AND {\c&H0000D4FF\fscx115\fscy115}DEDICATED{\r}
+Dialogue: 0,0:00:02.36,0:00:02.66,Word,,0,0,0,,{\c&H0000D4FF\fscx115\fscy115}TO{\r} THE PROPOSITION
+Dialogue: 0,0:00:02.66,0:00:02.76,Word,,0,0,0,,TO {\c&H0000D4FF\fscx115\fscy115}THE{\r} PROPOSITION
+Dialogue: 0,0:00:02.76,0:00:03.20,Word,,0,0,0,,TO THE {\c&H0000D4FF\fscx115\fscy115}PROPOSITION{\r}
+Dialogue: 0,0:00:03.20,0:00:03.52,Word,,0,0,0,,{\c&H0000D4FF\fscx115\fscy115}THAT{\r} ALL MEN
+Dialogue: 0,0:00:03.52,0:00:03.68,Word,,0,0,0,,THAT {\c&H0000D4FF\fscx115\fscy115}ALL{\r} MEN
+Dialogue: 0,0:00:03.68,0:00:03.90,Word,,0,0,0,,THAT ALL {\c&H0000D4FF\fscx115\fscy115}MEN{\r}
+Dialogue: 0,0:00:03.90,0:00:04.00,Word,,0,0,0,,{\c&H0000D4FF\fscx115\fscy115}ARE{\r} CREATED EQUAL.
+Dialogue: 0,0:00:04.00,0:00:04.28,Word,,0,0,0,,ARE {\c&H0000D4FF\fscx115\fscy115}CREATED{\r} EQUAL.
+Dialogue: 0,0:00:04.28,0:00:04.70,Word,,0,0,0,,ARE CREATED {\c&H0000D4FF\fscx115\fscy115}EQUAL.{\r}
+Dialogue: 0,0:00:05.46,0:00:05.62,Word,,0,0,0,,{\c&H0000D4FF\fscx115\fscy115}NOW{\r} WE ARE
+Dialogue: 0,0:00:05.62,0:00:05.78,Word,,0,0,0,,NOW {\c&H0000D4FF\fscx115\fscy115}WE{\r} ARE
+Dialogue: 0,0:00:05.78,0:00:05.88,Word,,0,0,0,,NOW WE {\c&H0000D4FF\fscx115\fscy115}ARE{\r}
+Dialogue: 0,0:00:05.88,0:00:06.20,Word,,0,0,0,,{\c&H0000D4FF\fscx115\fscy115}ENGAGED{\r} IN GREAT
+Dialogue: 0,0:00:06.20,0:00:06.52,Word,,0,0,0,,ENGAGED {\c&H0000D4FF\fscx115\fscy115}IN{\r} GREAT
+Dialogue: 0,0:00:06.52,0:00:06.76,Word,,0,0,0,,ENGAGED IN {\c&H0000D4FF\fscx115\fscy115}GREAT{\r}
+Dialogue: 0,0:00:06.76,0:00:07.06,Word,,0,0,0,,{\c&H0000D4FF\fscx115\fscy115}CIVIL{\r} WAR TESTING
+Dialogue: 0,0:00:07.06,0:00:07.42,Word,,0,0,0,,CIVIL {\c&H0000D4FF\fscx115\fscy115}WAR{\r} TESTING
+Dialogue: 0,0:00:07.42,0:00:07.76,Word,,0,0,0,,CIVIL WAR {\c&H0000D4FF\fscx115\fscy115}TESTING{\r}
+Dialogue: 0,0:00:07.76,0:00:08.02,Word,,0,0,0,,{\c&H0000D4FF\fscx115\fscy115}WHETHER{\r} THAT NATION
+Dialogue: 0,0:00:08.02,0:00:08.32,Word,,0,0,0,,WHETHER {\c&H0000D4FF\fscx115\fscy115}THAT{\r} NATION
+Dialogue: 0,0:00:08.32,0:00:08.78,Word,,0,0,0,,WHETHER THAT {\c&H0000D4FF\fscx115\fscy115}NATION{\r}
+Dialogue: 0,0:00:08.78,0:00:09.32,Word,,0,0,0,,{\c&H0000D4FF\fscx115\fscy115}OR{\r} ANY NATION
+Dialogue: 0,0:00:09.32,0:00:09.56,Word,,0,0,0,,OR {\c&H0000D4FF\fscx115\fscy115}ANY{\r} NATION
+Dialogue: 0,0:00:09.56,0:00:09.96,Word,,0,0,0,,OR ANY {\c&H0000D4FF\fscx115\fscy115}NATION{\r}
+Dialogue: 0,0:00:09.96,0:00:10.32,Word,,0,0,0,,{\c&H0000D4FF\fscx115\fscy115}SO{\r} CONCEIVED AND
+Dialogue: 0,0:00:10.32,0:00:10.90,Word,,0,0,0,,SO {\c&H0000D4FF\fscx115\fscy115}CONCEIVED{\r} AND
+Dialogue: 0,0:00:10.90,0:00:11.20,Word,,0,0,0,,SO CONCEIVED {\c&H0000D4FF\fscx115\fscy115}AND{\r}
+Dialogue: 0,0:00:11.20,0:00:11.44,Word,,0,0,0,,{\c&H0000D4FF\fscx115\fscy115}SO{\r} DEDICATED CAN
+Dialogue: 0,0:00:11.44,0:00:11.90,Word,,0,0,0,,SO {\c&H0000D4FF\fscx115\fscy115}DEDICATED{\r} CAN
+Dialogue: 0,0:00:11.90,0:00:12.62,Word,,0,0,0,,SO DEDICATED {\c&H0000D4FF\fscx115\fscy115}CAN{\r}
+Dialogue: 0,0:00:12.62,0:00:12.82,Word,,0,0,0,,{\c&H0000D4FF\fscx115\fscy115}LONG{\r} ENDURE.
+Dialogue: 0,0:00:12.82,0:00:13.14,Word,,0,0,0,,LONG {\c&H0000D4FF\fscx115\fscy115}ENDURE.{\r}
+Dialogue: 0,0:00:13.52,0:00:13.84,Word,,0,0,0,,{\c&H0000D4FF\fscx115\fscy115}WE{\r} ARE MET
+Dialogue: 0,0:00:13.84,0:00:13.92,Word,,0,0,0,,WE {\c&H0000D4FF\fscx115\fscy115}ARE{\r} MET
+Dialogue: 0,0:00:13.92,0:00:14.12,Word,,0,0,0,,WE ARE {\c&H0000D4FF\fscx115\fscy115}MET{\r}
+Dialogue: 0,0:00:14.12,0:00:14.32,Word,,0,0,0,,{\c&H0000D4FF\fscx115\fscy115}ON{\r} A GREAT
+Dialogue: 0,0:00:14.32,0:00:14.44,Word,,0,0,0,,ON {\c&H0000D4FF\fscx115\fscy115}A{\r} GREAT
+Dialogue: 0,0:00:14.44,0:00:14.60,Word,,0,0,0,,ON A {\c&H0000D4FF\fscx115\fscy115}GREAT{\r}
+Dialogue: 0,0:00:14.60,0:00:14.88,Word,,0,0,0,,{\c&H0000D4FF\fscx115\fscy115}BATTLE{\r} FOR THE
+Dialogue: 0,0:00:14.88,0:00:14.98,Word,,0,0,0,,BATTLE {\c&H0000D4FF\fscx115\fscy115}FOR{\r} THE
+Dialogue: 0,0:00:14.98,0:00:15.03,Word,,0,0,0,,BATTLE FOR {\c&H0000D4FF\fscx115\fscy115}THE{\r}
+Dialogue: 0,0:00:14.98,0:00:15.03,Word,,0,0,0,,{\c&H0000D4FF\fscx115\fscy115}FUTURE.{\r}
