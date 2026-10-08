@@ -87,6 +87,7 @@ Test and demo audio: [LibriVox](https://librivox.org) recording of the Gettysbur
 ## Related
 
 - [Word-by-Word Captions](https://pppioneer54.gumroad.com/l/word-by-word-captions) on Gumroad (pay what you want, 0 is fine): a packaged version of this idea with a bundled font (Montserrat, OFL) and step-by-step install guides in English and German. Disclosure: that's my product. This repository is free and fully usable on its own.
+- [Short-Form Clip & Content Planner](https://pppioneer54.gumroad.com/l/clip-content-planner) on Gumroad (€12): a spreadsheet template (Excel and Google Sheets, English/German) for keeping clip ideas, a posting calendar and per-post stats in one place. Disclosure: also mine; you don't need it for anything in this repository.
 
 ## License
 
