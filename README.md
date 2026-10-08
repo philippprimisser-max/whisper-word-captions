@@ -58,7 +58,7 @@ python wordcaptions.py clip.mp4 --render-only      # after editing clip.ass
 | `--size` | 6.5 | font size in % of the shorter video side |
 | `--position` | bottom | `bottom`, `middle`, `top` |
 | `--no-uppercase` | | keep normal case |
-| `--threads` | min(4, cores) | int8 with 8 threads dropped passages on one test machine, see [faster-whisper-gap-check](https://github.com/philippprimisser-max/faster-whisper-gap-check) |
+| `--threads` | min(4, cores) | with int8, 8 threads dropped passages in 13/15 runs on one test machine, 4 threads in 1/15; fewer threads reduce the risk but don't remove it. Check with [faster-whisper-gap-check](https://github.com/philippprimisser-max/faster-whisper-gap-check) |
 
 Measured on an 8-core x86-64 Linux server (`os.cpu_count()` = 8, default 4 threads, model already downloaded): a 15-second 1080×1920 clip took 6.1–6.7 s in total with `small` (model loading, transcription and rendering; two runs). The clip was made from the test audio, so you can repeat it:
 
