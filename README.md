@@ -84,6 +84,13 @@ python -m pytest -q        # includes one real run with the tiny model; SKIP_SLO
 
 Test and demo audio: [LibriVox](https://librivox.org) recording of the Gettysburg Address (public domain). The demo background is generated with ffmpeg.
 
+## More small tools from the same workflow
+
+- [podcast-to-text](https://github.com/philippprimisser-max/podcast-to-text): transcribe an episode from its RSS feed or Apple Podcasts link, locally.
+- [faster-whisper-gap-check](https://github.com/philippprimisser-max/faster-whisper-gap-check): find speech that is missing from a Whisper transcript.
+
+Write-ups: [DEV.to/@prime619](https://dev.to/prime619)
+
 ## Related
 
 - [Word-by-Word Captions](https://pppioneer54.gumroad.com/l/word-by-word-captions) on Gumroad (pay what you want, 0 is fine): a packaged version of this idea with a bundled font (Montserrat, OFL) and step-by-step install guides in English and German. Disclosure: that's my product. This repository is free and fully usable on its own.
